@@ -2,7 +2,7 @@
 <Entity parent="template_structure_defensive_wall_long">
   <Footprint>
     <Square width="37.0" depth="6.0"/>
-    <Height>9.0</Height>
+    <Height>12.5</Height>
   </Footprint>
   <Identity>
     <Civ>syrac</Civ>

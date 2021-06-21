@@ -15,6 +15,6 @@
     <HeightOffset>22.0</HeightOffset>
   </StatusBars>
   <VisualActor>
-    <Actor>structures/spartans/scout_tower.xml</Actor>
+    <Actor>structures/spartans/defense_tower.xml</Actor>
   </VisualActor>
 </Entity>
