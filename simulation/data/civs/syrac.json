@@ -1,0 +1,83 @@
+{
+	"Code": "syrac",
+	"Culture": "hele",
+	"Name": "Syracuse",
+	"Emblem": "session/portraits/emblems/sycilia.png",
+	"History": "As the cradle of Western civilization and the birthplace of democracy, syracs was famed as a center for the arts, learning and philosophy. The syracians were also powerful warriors, particularly at sea. At its peak, syracs dominated a large part of the Hellenic world for several decades.",
+	"Music": [
+		{
+			"File": "Harvest_Festival.ogg",
+			"Type": "peace"
+		},
+		{
+			"File": "Forging_a_City-State.ogg",
+			"Type": "peace"
+		},
+		{
+			"File": "Highland_Mist.ogg",
+			"Type": "peace"
+		},
+		{
+			"File": "The_Hellespont.ogg",
+			"Type": "peace"
+		}
+	],
+	"CivBonuses": [
+		{
+			"Name": "Silver Owls",
+			"History": "The mines at Laureion in Attica provided syracs with a wealth of silver from which to mint her famous and highly prized coin, The syracian Owl.",
+			"Description": "Workers +10% metal gather rate per phase advance."
+		}
+	],
+	"WallSets": [
+		"structures/wallset_palisade",
+		"structures/syrac/wallset_stone"
+	],
+	"StartEntities": [
+		{
+			"Template": "structures/syrac/civil_centre"
+		},
+		{
+			"Template": "units/syrac/support_female_citizen",
+			"Count": 4
+		},
+		{
+			"Template": "units/syrac/infantry_spearman_b",
+			"Count": 2
+		},
+		{
+			"Template": "units/syrac/infantry_slinger_b",
+			"Count": 2
+		},
+		{
+			"Template": "units/syrac/cavalry_javelineer_b"
+		}
+	],
+	"Formations": [
+		"special/formations/null",
+		"special/formations/box",
+		"special/formations/column_closed",
+		"special/formations/line_closed",
+		"special/formations/column_open",
+		"special/formations/line_open",
+		"special/formations/flank",
+		"special/formations/battle_line",
+		"special/formations/skirmish",
+		"special/formations/wedge",
+		"special/formations/phalanx"
+	],
+	"AINames": [
+		"Gelon",
+		"Hiero",
+		"Hiero II",
+		"Hieronymus",
+		"Agátocles",
+		"Dionysius II",
+		"Dionysius I"
+	],
+	"SkirmishReplacements": {
+		"skirmish/units/default_infantry_ranged_b": "units/syrac/infantry_slinger_b",
+		"skirmish/structures/default_house_10": "structures/{civ}/house"
+	},
+	"SelectableInGameSetup": true
+}

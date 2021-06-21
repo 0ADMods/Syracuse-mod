@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_military_stable">
+  <Identity>
+    <Civ>syrac</Civ>
+    <SpecificName>Hippōn</SpecificName>
+  </Identity>
+  <Obstruction>
+    <Static width="23.0" depth="23.0"/>
+  </Obstruction>
+  <ProductionQueue>
+    <BatchTimeModifier>0.7</BatchTimeModifier>
+    <Entities datatype="tokens">
+      units/{civ}/cavalry_spearman_ital_b
+    </Entities>
+  </ProductionQueue>
+  <VisualActor>
+    <Actor>structures/hellenes/stable.xml</Actor>
+    <FoundationActor>structures/fndn_7x7.xml</FoundationActor>
+  </VisualActor>
+</Entity>
