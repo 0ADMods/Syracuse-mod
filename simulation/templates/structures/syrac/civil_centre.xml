@@ -18,6 +18,6 @@
     </Entities>
   </ProductionQueue>
   <VisualActor>
-    <Actor>structures/hellenes/civic_centre_new.xml</Actor>
+    <Actor>structures/spartans/civic_center.xml</Actor>
   </VisualActor>
 </Entity>

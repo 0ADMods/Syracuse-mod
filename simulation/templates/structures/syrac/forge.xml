@@ -5,6 +5,6 @@
     <SpecificName>Chalkeōn</SpecificName>
   </Identity>
   <VisualActor>
-    <Actor>structures/hellenes/blacksmith.xml</Actor>
+    <Actor>structures/spartans/blacksmith.xml</Actor>
   </VisualActor>
 </Entity>
