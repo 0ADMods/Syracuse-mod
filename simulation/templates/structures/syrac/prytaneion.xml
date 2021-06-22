@@ -36,9 +36,9 @@
   <ProductionQueue>
     <BatchTimeModifier>0.7</BatchTimeModifier>
     <Entities datatype="tokens">
-      units/{civ}/hero_themistocles
-      units/{civ}/hero_pericles
-      units/{civ}/hero_iphicrates
+      units/{civ}/hero_agatocles
+      units/{civ}/hero_dionysius_i
+      units/{civ}/hero_gelon
     </Entities>
     <Technologies datatype="tokens">
       long_walls
