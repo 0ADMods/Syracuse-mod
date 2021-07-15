@@ -26,10 +26,10 @@
   </Health>
   <Identity>
     <Civ>syrac</Civ>
-    <Classes datatype="tokens">Organic Human</Classes>
+    <Classes datatype="tokens">Inventor Human Organic</Classes>
     <GenericName>Inventor Syracuse</GenericName>
     <Icon>units/han/minister.png</Icon>
-    <VisibleClasses datatype="tokens">Minister</VisibleClasses>
+    <VisibleClasses datatype="tokens">Inventor</VisibleClasses>
 	<Tooltip>
 Use to boost the efficiency of nearby units and buildings. Garrison within a building to boost the efficiency of its production queue.</Tooltip>
     <History>h.</History>

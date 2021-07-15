@@ -4,6 +4,7 @@
     <Entities datatype="tokens">
       structures/syrac/gymnasium
       structures/syrac/prytaneion
+      structures/syrac/ray_tower
     </Entities>
   </Builder>
   <Identity>

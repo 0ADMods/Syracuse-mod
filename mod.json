@@ -1,7 +1,7 @@
 {
 	"name": "Syracuse-mod",
 	"version": "0.0.1",
-	"label": "",
+	"label": "Syracusans",
 	"description": "adds civ Syracuse to 0a.d.",
 	"dependencies": ["0ad=0.0.25"],
 	"type": ["Factions"]
