@@ -50,7 +50,7 @@
     <Range>40</Range>
   </Vision>
   <VisualActor>
-    <Actor>structures/athenians/gymnasium.xml</Actor>
+    <Actor>structures/syracusans/gymnasium.xml</Actor>
     <FoundationActor>structures/fndn_8x9.xml</FoundationActor>
   </VisualActor>
 </Entity>

@@ -5,6 +5,7 @@
       structures/syrac/gymnasium
       structures/syrac/prytaneion
       structures/syrac/library
+      strucutres/syrac/ray_tower
     </Entities>
   </Builder>
   <Identity>

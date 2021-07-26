@@ -5,6 +5,6 @@
     <SpecificName>Hoplothēkē</SpecificName>
   </Identity>
   <VisualActor>
-    <Actor>structures/spartans/workshop.xml</Actor>
+    <Actor>structures/syracusans/workshop.xml</Actor>
   </VisualActor>
 </Entity>

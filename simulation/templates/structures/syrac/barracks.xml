@@ -20,7 +20,7 @@
     </Technologies>
   </ProductionQueue>
   <VisualActor>
-    <Actor>structures/spartans/barracks.xml</Actor>
+    <Actor>structures/syracusans/barracks.xml</Actor>
     <FoundationActor>structures/fndn_6x6.xml</FoundationActor>
   </VisualActor>
 </Entity>

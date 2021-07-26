@@ -5,6 +5,7 @@
       structures/syrac/gymnasium
       structures/syrac/prytaneion
       structures/syrac/library
+      structures/syrac/ray_tower
     </Entities>
   </Builder>
   <Identity>
@@ -19,6 +20,6 @@
     <Entity>units/syrac/infantry_spearman_a</Entity>
   </Promotion>
   <VisualActor>
-    <Actor>units/syracuses/infantry_spearman_b.xml</Actor>
+    <Actor>units/syracuses/infantry_spearman_a.xml</Actor>
   </VisualActor>
 </Entity>
