@@ -6,6 +6,6 @@
   </Identity>
   <Promotion disable=""/>
   <VisualActor>
-    <Actor>units/syracusans/infantry_javelinist_e.xml</Actor>
+    <Actor>units/syracuses/infantry_javelinist_e.xml</Actor>
   </VisualActor>
 </Entity>
