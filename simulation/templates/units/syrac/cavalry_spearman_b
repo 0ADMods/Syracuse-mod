@@ -52,6 +52,6 @@
     </SoundGroups>
   </Sound>
   <VisualActor>
-    <Actor>units/syracusans/cavalry_spearman_b_m.xml</Actor>
+    <Actor>units/syracuses/cavalry_spearman_b_m.xml</Actor>
   </VisualActor>
 </Entity>
