@@ -1,0 +1,13 @@
+  
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="units/syrac/cavalry_javelineer_merc_b">
+  <Identity>
+    <Rank>Advanced</Rank>
+  </Identity>
+  <Promotion>
+    <Entity>units/syrac/cavalry_javelineer_merc_e</Entity>
+  </Promotion>
+  <VisualActor>
+    <Actor>units/syracuses/cavalry_javelinist_a_m.xml</Actor>
+  </VisualActor>
+</Entity>
