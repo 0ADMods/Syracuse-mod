@@ -26,8 +26,8 @@
     <Civ>syra</Civ>
     <Lang>greek</Lang>
     <SelectionGroupName>units/syrac/infantry_peltast_c</SelectionGroupName>
-    <GenericName>Tyrant's Peltasts</GenericName>
-    <SpecificName>Peltastḗs Basilikos</SpecificName>
+    <GenericName>Tyrant's Peltast</GenericName>
+    <SpecificName>Somatophylax Tyrannou</SpecificName>
     <Icon>units/infantry_peltast.png</Icon>
   </Identity>
   <Resistance>
