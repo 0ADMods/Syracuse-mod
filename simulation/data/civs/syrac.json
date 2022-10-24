@@ -1,9 +1,6 @@
 {
 	"Code": "syrac",
 	"Culture": "hele",
-	"Name": "Syracuse",
-	"Emblem": "session/portraits/emblems/sycilia.png",
-	"History": "As the cradle of Western civilization and the birthplace of democracy, syracs was famed as a center for the arts, learning and philosophy. The syracians were also powerful warriors, particularly at sea. At its peak, syracs dominated a large part of the Hellenic world for several decades.",
 	"Music": [
 		{
 			"File": "Harvest_Festival.ogg",
@@ -52,19 +49,6 @@
 		{
 			"Template": "units/syrac/cavalry_javelineer_b"
 		}
-	],
-	"Formations": [
-		"special/formations/null",
-		"special/formations/box",
-		"special/formations/column_closed",
-		"special/formations/line_closed",
-		"special/formations/column_open",
-		"special/formations/line_open",
-		"special/formations/flank",
-		"special/formations/battle_line",
-		"special/formations/skirmish",
-		"special/formations/wedge",
-		"special/formations/phalanx"
 	],
 	"AINames": [
 		"Gelon",

@@ -7,7 +7,7 @@
     <Civ>syrac</Civ>
     <SpecificName>Agora</SpecificName>
   </Identity>
-  <ProductionQueue>
+  <Trainer>
     <Entities datatype="tokens">
       units/{civ}/infantry_spearman_b
       units/{civ}/cavalry_javelineer_b
@@ -16,7 +16,7 @@
       units/{civ}/hero_hiero_ii
       units/{civ}/inventor
     </Entities>
-  </ProductionQueue>
+  </Trainer>
   <VisualActor>
     <Actor>structures/syracusans/civic_center.xml</Actor>
   </VisualActor>

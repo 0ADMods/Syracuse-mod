@@ -14,11 +14,11 @@
   <Obstruction>
     <Static width="20.0" depth="20.0"/>
   </Obstruction>
-  <ProductionQueue>
+ <!--  <ProductionQueue>
     <Technologies datatype="tokens">
       upgrade_rank_advanced_mercenary
     </Technologies>
-  </ProductionQueue>
+  </ProductionQueue> -->
   <VisualActor>
     <Actor>structures/syracusans/barracks.xml</Actor>
     <FoundationActor>structures/fndn_6x6.xml</FoundationActor>

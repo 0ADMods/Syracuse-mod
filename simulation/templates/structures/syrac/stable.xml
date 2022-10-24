@@ -7,12 +7,12 @@
   <Obstruction>
     <Static width="23.0" depth="23.0"/>
   </Obstruction>
-  <ProductionQueue>
+  <Trainer>
     <BatchTimeModifier>0.7</BatchTimeModifier>
     <Entities datatype="tokens">
       units/{civ}/cavalry_spearman_ital_b
     </Entities>
-  </ProductionQueue>
+  </Trainer>
   <VisualActor>
     <Actor>structures/spartans/stable.xml</Actor>
     <FoundationActor>structures/fndn_7x7.xml</FoundationActor>

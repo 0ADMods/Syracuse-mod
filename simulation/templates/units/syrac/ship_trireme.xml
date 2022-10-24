@@ -10,7 +10,7 @@
     <GenericName>Athenian Trireme</GenericName>
     <Icon>units/hele_ship_trireme.png</Icon>
   </Identity>
-  <ProductionQueue>
+<!--   <Trainer>
     <BatchTimeModifier>0.7</BatchTimeModifier>
     <Entities datatype="tokens">
       units/syrac/infantry_marine_archer_b
@@ -23,7 +23,7 @@
       <metal>1.0</metal>
       <time>1.0</time>
     </TechCostMultiplier>
-  </ProductionQueue>
+  </Trainer> -->
   <VisualActor>
     <Actor>structures/athenians/trireme.xml</Actor>
   </VisualActor>

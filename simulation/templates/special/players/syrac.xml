@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_player">
+<!--   <Auras datatype="tokens">
+    teambonuses/yayo_player_teambonus
+  </Auras> -->
+  <Identity>
+    <Civ>syrac</Civ>
+    <GenericName>Syracuse</GenericName>
+    <History> As the cradle of Western civilization and the birthplace of democracy, syracs was famed as a center for the arts, learning and philosophy. The syracians were also powerful warriors, particularly at sea. At its peak, syracs dominated a large part of the Hellenic world for several decades.
+</History>
+    <Icon>emblems/emblem_syracusans.png</Icon>
+  </Identity>
+  <Player>
+    <!-- <Formations datatype="tokens">
+      special/formations/phalanx
+    </Formations> -->
+  </Player>
+</Entity>

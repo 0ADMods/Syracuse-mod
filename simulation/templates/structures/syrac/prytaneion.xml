@@ -33,18 +33,6 @@
   <Obstruction>
     <Static width="24.0" depth="30.0"/>
   </Obstruction>
-  <ProductionQueue>
-    <BatchTimeModifier>0.7</BatchTimeModifier>
-    <Entities datatype="tokens">
-      units/{civ}/hero_agatocles
-      units/{civ}/hero_dionysius_i
-      units/{civ}/hero_gelon
-    </Entities>
-    <Technologies datatype="tokens">
-      long_walls
-      iphicratean_reforms
-    </Technologies>
-  </ProductionQueue>
   <Sound>
     <SoundGroups>
       <select>interface/select/building/sel_tholos.xml</select>
@@ -56,6 +44,20 @@
     <Radius>38</Radius>
     <Weight>40000</Weight>
   </TerritoryInfluence>
+
+    <Trainer>
+    <BatchTimeModifier>0.7</BatchTimeModifier>
+    <Entities datatype="tokens">
+      units/{civ}/hero_agatocles
+      units/{civ}/hero_dionysius_i
+      units/{civ}/hero_gelon
+    </Entities>
+<!--     <Technologies datatype="tokens">
+      long_walls
+      iphicratean_reforms
+    </Technologies> -->
+  </Trainer>
+  
   <Vision>
     <Range>40</Range>
   </Vision>
