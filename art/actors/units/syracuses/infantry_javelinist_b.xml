@@ -13,25 +13,47 @@
     </variant>
   </group>
   <group>
-    <variant frequency="1" name="Tunic-1">
-      <textures>
-        <texture file="skeletal/kart_csp_b_1.dds" name="baseTex"/>
-      </textures>
+    <variant frequency="1" name="Samnite-Attic-01">
+      <props>
+        <prop actor="props/units/helmets/hele_attic_b1.xml" attachpoint="helmet"/>
+      </props>
     </variant>
-    <variant frequency="1" name="Tunic-2">
-      <textures>
-        <texture file="skeletal/kart_csp_b_2.dds" name="baseTex"/>
-      </textures>
+    <variant frequency="1" name="Samnite-Attic-02">
+      <props>
+        <prop actor="props/units/helmets/hele_attic_b2.xml" attachpoint="helmet"/>
+      </props>
     </variant>
-    <variant frequency="1" name="Tunic-3">
-      <textures>
-        <texture file="skeletal/kart_csp_b_3.dds" name="baseTex"/>
-      </textures>
+    <variant frequency="1" name="Samnite-Attic-03">
+      <props>
+        <prop actor="props/units/helmets/hele_attic_b3.xml" attachpoint="helmet"/>
+      </props>
     </variant>
-    <variant frequency="1" name="Tunic-4">
+    <variant frequency="1" name="Samnite-Attic-03">
+      <props>
+        <prop actor="props/units/helmets/hele_attic_b4.xml" attachpoint="helmet"/>
+      </props>
+    </variant>
+    <variant frequency="1" name="Rome-Montefortino-01">
+      <props>
+        <prop actor="props/units/helmets/rome_helmet_montefortino.xml" attachpoint="helmet"/>
+      </props>
+    </variant>
+  </group>
+  <group>
+    <variant frequency="1" name="tunic_pattern_06_01">
       <textures>
-        <texture file="skeletal/kart_csp_b_4.dds" name="baseTex"/>
-      </textures>
+	    <texture file="skeletal/ital/tunic_pattern_06_01.png" name="baseTex"/>
+	  </textures>
+    </variant>
+    <variant frequency="1" name="tunic_pattern_06_02">
+      <textures>
+	    <texture file="skeletal/ital/tunic_pattern_06_02.png" name="baseTex"/>
+	  </textures>
+    </variant>
+    <variant frequency="1" name="tunic_pattern_06_03">
+      <textures>
+	    <texture file="skeletal/ital/tunic_pattern_06_03.png" name="baseTex"/>
+	  </textures>
     </variant>
   </group>
   <group>

@@ -14,12 +14,12 @@
       <props>
       </props>
       <textures>
-        <texture file="skeletal/hele_healer_1.dds" name="baseTex"/>
+        <texture file="skeletal/hele/toga_healer_01.dds" name="baseTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="healer-robe-2">
       <textures>
-        <texture file="skeletal/hele_healer_2.dds" name="baseTex"/>
+        <texture file="skeletal/hele/toga_healer_01.dds" name="baseTex"/>
       </textures>
     </variant>
   </group>

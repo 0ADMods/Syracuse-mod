@@ -15,49 +15,49 @@
   <group>
     <variant frequency="1" name="Samnite-Attic-01">
       <props>
-        <prop actor="props/units/helmets/hele_attic_a1.xml" attachpoint="helmet"/>
+        <prop actor="props/units/helmets/hele_attic_e1.xml" attachpoint="helmet"/>
       </props>
     </variant>
     <variant frequency="1" name="Samnite-Attic-02">
       <props>
-        <prop actor="props/units/helmets/hele_attic_a2.xml" attachpoint="helmet"/>
+        <prop actor="props/units/helmets/hele_attic_e2.xml" attachpoint="helmet"/>
       </props>
     </variant>
     <variant frequency="1" name="Samnite-Attic-03">
       <props>
-        <prop actor="props/units/helmets/hele_attic_a3.xml" attachpoint="helmet"/>
+        <prop actor="props/units/helmets/hele_attic_e3.xml" attachpoint="helmet"/>
       </props>
     </variant>
     <variant frequency="1" name="Samnite-Attic-04">
       <props>
-        <prop actor="props/units/helmets/hele_attic_a4.xml" attachpoint="helmet"/>
+        <prop actor="props/units/helmets/hele_attic_e4.xml" attachpoint="helmet"/>
+      </props>
+    </variant>
+    <variant frequency="1" name="Samnite-Phrygian-01">
+      <props>
+        <prop actor="props/units/helmets/hele_phrygian_e11.xml" attachpoint="helmet"/>
       </props>
     </variant>
     <variant frequency="1" name="Rome-Montefortino-01">
       <props>
-        <prop actor="props/units/helmets/rome_helmet_montefortino_c.xml" attachpoint="helmet"/>
+        <prop actor="props/units/helmets/samnite_helmet_montefortino.xml" attachpoint="helmet"/>
       </props>
     </variant>
   </group>
   <group>
-    <variant frequency="1" name="Tunic-1">
+    <variant frequency="1" name="cuirass_01_01">
       <textures>
-        <texture file="skeletal/kart_csp_b_1.dds" name="baseTex"/>
+        <texture file="skeletal/ital/cuirass_01_01.png" name="baseTex"/>
       </textures>
     </variant>
-    <variant frequency="1" name="Tunic-2">
+    <variant frequency="1" name="cuirass_01_02">
       <textures>
-        <texture file="skeletal/kart_csp_b_2.dds" name="baseTex"/>
+        <texture file="skeletal/ital/cuirass_01_02.png" name="baseTex"/>
       </textures>
     </variant>
-    <variant frequency="1" name="Tunic-3">
+    <variant frequency="1" name="cuirass_01_03">
       <textures>
-        <texture file="skeletal/kart_csp_b_3.dds" name="baseTex"/>
-      </textures>
-    </variant>
-    <variant frequency="1" name="Tunic-4">
-      <textures>
-        <texture file="skeletal/kart_csp_b_4.dds" name="baseTex"/>
+        <texture file="skeletal/ital/cuirass_01_03.png" name="baseTex"/>
       </textures>
     </variant>
   </group>
