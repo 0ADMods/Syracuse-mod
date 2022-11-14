@@ -5,14 +5,13 @@
   </Auras> -->
   <Identity>
     <Civ>syrac</Civ>
-    <GenericName>Syracuse</GenericName>
-    <History> As the cradle of Western civilization and the birthplace of democracy, syracs was famed as a center for the arts, learning and philosophy. The syracians were also powerful warriors, particularly at sea. At its peak, syracs dominated a large part of the Hellenic world for several decades.
-</History>
+    <GenericName>Syracusans</GenericName>
+    <History>Syracuse, founded on the coast of the island of Sicily, grew to be one of the largest Greek cities in the Meditrranean basin, rivaling Athens in size by the end of the 5th century BC. Its storied history includes internal revolutions and external wars against emerging Mediterranean powers such as Carthage, Athens, and Rome, with a brief stint as part of the empire of Pyrrhus of Epirus and for a while as master of most of Sicily. Quinquiremes were invented there, as well as numerous siege engine innovations, due to the patronage of the city's famous tyrants. The city fell to the Romans in 212 BC after a 3-year siege and thereafter became capital of the Roman province of Sicily.</History>
     <Icon>emblems/emblem_syracusans.png</Icon>
   </Identity>
   <Player>
-    <!-- <Formations datatype="tokens">
+    <Formations datatype="tokens">
       special/formations/phalanx
-    </Formations> -->
+    </Formations>
   </Player>
 </Entity>
