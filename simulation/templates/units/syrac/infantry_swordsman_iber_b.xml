@@ -13,12 +13,12 @@
     <Civ>syrac</Civ>
     <SelectionGroupName>units/syrac/infantry_swordsman_b</SelectionGroupName>
     <SpecificName>Iberian Infantry</SpecificName>
-    <Icon>units/iber_infantry_swordsman.png</Icon>
+    <Icon>units/iber/infantry_swordsman.png</Icon>
   </Identity>
   <Promotion>
     <Entity>units/syrac/infantry_swordsman_iber_a</Entity>
   </Promotion>
   <VisualActor>
-    <Actor>units/syracuses/infantry_swordsman_iber_b.xml</Actor>
+    <Actor>units/syracusans/infantry_swordsman_iber_b.xml</Actor>
   </VisualActor>
 </Entity>

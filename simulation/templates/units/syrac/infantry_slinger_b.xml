@@ -14,7 +14,7 @@
     <SelectionGroupName>units/syrac/infantry_slinger_b</SelectionGroupName>
     <GenericName>Syracuse Slinger Militia</GenericName>
     <SpecificName>Psilòs</SpecificName>
-    <Icon>units/athen_infantry_slinger.png</Icon>
+    <Icon>units/athen/infantry_slinger.png</Icon>
   </Identity>
   <Promotion>
     <Entity>units/syrac/infantry_slinger_a</Entity>

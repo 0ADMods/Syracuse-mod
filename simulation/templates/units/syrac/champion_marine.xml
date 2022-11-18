@@ -5,10 +5,10 @@
     <Lang>greek</Lang>
     <GenericName>Syracuse Marine</GenericName>
     <SpecificName>Epibátēs Athēnaîos</SpecificName>
-    <Icon>units/athen_champion_marine.png</Icon>
+    <Icon>units/athen/champion_marine.png</Icon>
     <RequiredTechnology>iphicratean_reforms</RequiredTechnology>
   </Identity>
   <VisualActor>
-    <Actor>units/syracuses/infantry_swordsman_c.xml</Actor>
+    <Actor>units/syracusans/infantry_swordsman_c.xml</Actor>
   </VisualActor>
 </Entity>

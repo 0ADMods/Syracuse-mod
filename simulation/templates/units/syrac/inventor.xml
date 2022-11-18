@@ -26,13 +26,12 @@
   </Health>
   <Identity>
     <Civ>syrac</Civ>
-    <Classes datatype="tokens">Inventor Human Organic</Classes>
     <GenericName>Inventor Syracuse</GenericName>
-    <Icon>units/han/minister.png</Icon>
+    <Classes datatype="tokens">Inventor Human Organic</Classes>
     <VisibleClasses datatype="tokens">Inventor</VisibleClasses>
+    <Icon>units/hele/support_healer.png</Icon>
 	<Tooltip>
 Use to boost the efficiency of nearby units and buildings. Garrison within a building to boost the efficiency of its production queue.</Tooltip>
-    <History>h.</History>
     <RequiredTechnology>phase_town</RequiredTechnology>
   </Identity>
   <Minimap>
@@ -90,6 +89,6 @@ Use to boost the efficiency of nearby units and buildings. Garrison within a bui
     <Range>30</Range>
   </Vision>
   <VisualActor>
-    <Actor>units/syracuses/inventor.xml</Actor>
+    <Actor>units/syracusans/inventor.xml</Actor>
   </VisualActor>
 </Entity>

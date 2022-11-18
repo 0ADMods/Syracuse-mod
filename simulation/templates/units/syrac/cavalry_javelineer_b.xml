@@ -4,13 +4,14 @@
     <Civ>syrac</Civ>
     <Lang>greek</Lang>
     <SelectionGroupName>units/syrac/cavalry_javelineer_b</SelectionGroupName>
-    <SpecificName>Pródromos</SpecificName>
-    <Icon>units/athen_cavalry_javelinist.png</Icon>
+    <GenericName>Tarantine Cavalry</GenericName>
+    <SpecificName>Hippeús Tarantînos</SpecificName>
+    <Icon>units/athen/cavalry_javelinist.png</Icon>
   </Identity>
   <Promotion>
     <Entity>units/syrac/cavalry_javelineer_a</Entity>
   </Promotion>
   <VisualActor>
-    <Actor>units/macedonians/cavalry_javelinist_b_m.xml</Actor>
+    <Actor>units/syracusans/cavalry_javelinist_b_m.xml</Actor>
   </VisualActor>
 </Entity>

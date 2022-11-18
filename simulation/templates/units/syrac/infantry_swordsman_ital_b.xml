@@ -20,13 +20,13 @@
     <SpecificName>Xiphophoros Kampaniotes</SpecificName>
     <SelectionGroupName>units/syra/infantry_swordsman_ital_b</SelectionGroupName>
     <VisibleClasses datatype="tokens">Mercenary</VisibleClasses>
-    <Icon>units/cart_infantry_swordsman_2.png</Icon>
+    <Icon>units/cart/infantry_swordsman_2.png</Icon>
     <RequiredTechnology>phase_town</RequiredTechnology>
   </Identity>
   <Promotion>
     <Entity>units/syrac/infantry_swordsman_ital_a</Entity>
   </Promotion>
   <VisualActor>
-    <Actor>units/syracuses/infantry_swordsman_ital_b.xml</Actor>
+    <Actor>units/syracusans/infantry_swordsman_ital_b.xml</Actor>
   </VisualActor>
 </Entity>

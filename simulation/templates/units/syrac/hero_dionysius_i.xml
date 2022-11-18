@@ -9,7 +9,7 @@
     <Lang>greek</Lang>
     <GenericName>Dionysius I</GenericName>
     <SpecificName>Dionysius</SpecificName>
-    <Icon>units/athen_hero_iphicrates.png</Icon>
+    <Icon>units/athen/hero_iphicrates.png</Icon>
   </Identity>
   <VisualActor>
     <Actor>units/athenians/hero_infantry_javelinist_iphicrates.xml</Actor>

@@ -9,7 +9,7 @@
     <Lang>greek</Lang>
     <GenericName>Gelon</GenericName>
     <SpecificName>Gelon I</SpecificName>
-    <Icon>units/athen_hero_pericles.png</Icon>
+    <Icon>units/athen/hero_pericles.png</Icon>
   </Identity>
   <VisualActor>
     <Actor>units/athenians/hero_infantry_spearman_pericles.xml</Actor>

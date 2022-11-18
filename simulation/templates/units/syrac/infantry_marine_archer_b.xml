@@ -13,7 +13,7 @@
     <GenericName>Cretan Mercenary Archer</GenericName>
     <SpecificName>Toxótēs Krētikós</SpecificName>
     <VisibleClasses datatype="tokens">Mercenary</VisibleClasses>
-    <Icon>units/mace_infantry_archer.png</Icon>
+    <Icon>units/mace/infantry_archer.png</Icon>
     <RequiredTechnology>iphicratean_reforms</RequiredTechnology>
   </Identity>
   <Promotion>

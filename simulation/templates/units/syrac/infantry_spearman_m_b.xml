@@ -11,7 +11,7 @@
      <VisibleClasses datatype="tokens">Mercenary</VisibleClasses>
     <GenericName>Allied Perioikoi Hoplite</GenericName>
     <SpecificName>Hoplítēs Períoikos</SpecificName>
-    <Icon>units/spart_infantry_spearman.png</Icon>
+    <Icon>units/spart/infantry_spearman.png</Icon>
   </Identity>
   <Promotion>
     <Entity>units/syrac/infantry_spearman_a</Entity>

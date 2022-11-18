@@ -14,13 +14,13 @@
     <GenericName>Sicels Peltast</GenericName>
     <SpecificName>Peltastḗs Sikeloi</SpecificName>
     <VisibleClasses datatype="tokens">Mercenary</VisibleClasses>
-    <Icon>units/athen_infantry_javelinist.png</Icon>
+    <Icon>units/athen/infantry_javelinist.png</Icon>
     <RequiredTechnology>phase_town</RequiredTechnology>
   </Identity>
   <Promotion>
     <Entity>units/syrac/infantry_javelineer_a</Entity>
   </Promotion>
   <VisualActor>
-    <Actor>units/syracuses/infantry_javelinist_b.xml</Actor>
+    <Actor>units/syracusans/infantry_javelinist_b.xml</Actor>
   </VisualActor>
 </Entity>

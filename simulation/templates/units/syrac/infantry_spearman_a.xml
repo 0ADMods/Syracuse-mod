@@ -7,6 +7,6 @@
     <Entity>units/syrac/infantry_spearman_e</Entity>
   </Promotion>
   <VisualActor>
-    <Actor>units/syracuses/infantry_spearman_a.xml</Actor>
+    <Actor>units/syracusans/infantry_spearman_a.xml</Actor>
   </VisualActor>
 </Entity>
